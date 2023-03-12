@@ -5,7 +5,7 @@ Varios desafios apenas com HTML e CSS
 ## Lista dos desafios
 | #    | Name           | Status  | Deploy |
 | :--- | :------------- | :------ | :------|
-| 01   | Music Player   |:heavy_check_mark:       |        | 
+| 01   | Music Player   |:heavy_check_mark:       |   [:headphones:](https://danny-s07.github.io/boracodar/desafio01-playmusic)| 
 | 02   | Product Card   |:heavy_check_mark:       |        |
 | 03   | Buttons and Cursors | :heavy_check_mark:   |        |
 | 04   | Chat           |:heavy_check_mark:      |        |
