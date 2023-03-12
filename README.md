@@ -6,9 +6,9 @@ Varios desafios apenas com HTML e CSS
 | #    | Name           | Status  | Deploy |
 | :--- | :------------- | :------ | :------|
 | 01   | Music Player   |:heavy_check_mark:       |   [:headphones:](https://danny-s07.github.io/boracodar/desafio01-playmusic)| 
-| 02   | Product Card   |:heavy_check_mark:       |        |
-| 03   | Buttons and Cursors | :heavy_check_mark:   |        |
-| 04   | Chat           |:heavy_check_mark:      |        |
-| 05   | Calculadora    |:heavy_check_mark:      |        |
+| 02   | Product Card   |:heavy_check_mark:       |  [:couch_and_lamp:](https://danny-s07.github.io/boracodar/desafio02-cartaoproduto)|
+| 03   | Buttons and Cursors | :heavy_check_mark:   | [:point_up_2:](https://danny-s07.github.io/boracodar/desafio03-botoesecursores)|
+| 04   | Chat           |:heavy_check_mark:      | [:woman_technologist:](https://danny-s07.github.io/boracodar/desafio04-chat)|
+| 05   | Calculadora    |:heavy_check_mark:      |[:1234:](https://danny-s07.github.io/boracodar/desafio05-calculadora )|
 
 
