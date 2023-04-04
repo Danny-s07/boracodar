@@ -13,5 +13,6 @@ Varios desafios apenas com HTML e CSS
 | 03   | Buttons and Cursors | :heavy_check_mark:   | [:point_up_2:](https://danny-s07.github.io/boracodar/desafio03-botoesecursores)|
 | 04   | Chat           |:heavy_check_mark:      | [:woman_technologist:](https://danny-s07.github.io/boracodar/desafio04-chat)|
 | 05   | Calculadora    |:heavy_check_mark:      |[:1234:](https://danny-s07.github.io/boracodar/desafio05-calculadora )|
+| 06   | Cartão de Embarque    |:heavy_check_mark:  |[:airplane:](https://danny-s07.github.io/boracodar/desafio06-cartaodeembarque)|
 
 
