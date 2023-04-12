@@ -18,8 +18,8 @@ Varios desafios apenas com HTML e CSS
 | 08   | Dashboard   |:heavy_check_mark:  |[:abacus:](https://danny-s07.github.io/boracodar/desafio08-dashboard)|
 | 09  | Conversor de moedas   |:heavy_check_mark:  |[💰](https://danny-s07.github.io/boracodar/desafio09-conversordemoedas)|
 | 10   | Previsão do Tempo |:heavy_check_mark:  |[🌦️](https://danny-s07.github.io/boracodar/desafio10-previsaodotempo)|
-| 11  | Tela de Login  |:heavy_check_mark:  |[💻](https://danny-s07.github.io/boracodar/desafio11-teladelogin)|
-| 12   | Dashboard   |:heavy_check_mark:  |[📊](https://danny-s07.github.io/boracodar/desafio12-dashboard)|
+| 11  | Tela de Login  |:heavy_check_mark:  |[:computer:](https://danny-s07.github.io/boracodar/desafio11-teladelogin)|
+| 12   | Dashboard   |:heavy_check_mark:  |[📊](https://danny-s07.github.io/boracodar/desafio12-dasboard)|
 | 13 | Checkout  |:heavy_check_mark:  |[💳](https://danny-s07.github.io/boracodar/desafio13-checkout)|
 
 
