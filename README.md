@@ -21,6 +21,13 @@ Varios desafios apenas com HTML e CSS
 | 11  | Tela de Login  |:heavy_check_mark:  |[:computer:](https://danny-s07.github.io/boracodar/desafio11-teladelogin)|
 | 12   | Dashboard   |:heavy_check_mark:  |[📊](https://danny-s07.github.io/boracodar/desafio12-dasboard)|
 | 13 | Checkout  |:heavy_check_mark:  |[💳](https://danny-s07.github.io/boracodar/desafio13-checkout)|
+| 14 | Upload  |:heavy_check_mark:  |[📤](https://danny-s07.github.io/boracodar/desafio14-upload)|
+
+
+
+
+
+
 
 
 
