@@ -168,6 +168,7 @@ form {
 
 .person {
   gap: 16px;
+  min-width: max-content;
 }
 
 .person img {
