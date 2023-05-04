@@ -1,14 +1,14 @@
 @charset "UTF-8";
 
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
 
-html,
+  html,
 body {
   overflow: hidden;
 }
@@ -16,7 +16,7 @@ body {
 html,
 body,
 input {
-  font-family: 'Roboto';
+  font-family: "Roboto";
 }
 
 ul {
