@@ -27,6 +27,7 @@ function filterCards() {
             }
       } else {
         person.classList.remove('display-none')
+        person.parentElement.parentElement.classList.remove('display-none')
       }
     }
   } else {
