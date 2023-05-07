@@ -1,0 +1,83 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html,body
+  {
+    font-family: 'Lato';
+  }
+
+  body
+  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: black;
+  }
+
+  .box
+  {
+    padding: 32px;
+    background-color: #FFFF;
+    box-shadow: 0px 8px 32px rgba(0, 0, 0 / .16);
+    border-radius: 16px;
+
+    width: fit-content;
+  }
+
+  #app
+  {
+    display: grid;
+    grid-template-rows: 40px 1fr;
+    gap: 24px;
+  }
+
+
+  header
+  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: bold;
+  }
+
+
+  main
+  {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 16px;
+  }
+
+  /* toda div que tem dentro do main(main > div) */
+
+  main > div
+  {
+    width: 82px;
+    height: 40px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+
+  main > div:hover
+  {
+    background-color: #ece0fd;
+    border-radius: 8px;
+  }
+
+  /* vai criar a classe active no js */
+  main > div.active
+  {
+    background: #6200ee;
+    border-radius: 8px;
+    font-weight: 700;
+    color: white;
+  }
