@@ -22,6 +22,8 @@ Varios desafios apenas com HTML e CSS
 | 12   | Dashboard   |:heavy_check_mark:  |[📊](https://danny-s07.github.io/boracodar/desafio12-dasboard)|
 | 13 | Checkout  |:heavy_check_mark:  |[💳](https://danny-s07.github.io/boracodar/desafio13-checkout)|
 | 14 | Upload  |:heavy_check_mark:  |[📤](https://danny-s07.github.io/boracodar/desafio14-upload)|
+| 15 | Precing Table  |:heavy_check_mark:  |[:page_facing_up:](https://danny-s07.github.io/boracodar/desafio15-planospreco)|
+| 16 | List Contact |:heavy_check_mark:  |[:telephone_receiver:](https://danny-s07.github.io/boracodar/desafio16-listadecontatos)|
 
 
 
