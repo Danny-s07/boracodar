@@ -1,6 +1,6 @@
 # Boracodar
 <p align="center">
-<img src="https://img.shields.io/badge/STATUS-EM%20ANDAMENTO-yellow"/>
+<img src="https://img.shields.io/badge/STATUS-EM%20STANDBYORHEFINISHED-yellow"/>
 </p>
 
 Varios desafios apenas com HTML e CSS
